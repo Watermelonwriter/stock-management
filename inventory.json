@@ -1,0 +1,20 @@
+{
+  "生菜": {
+    "stock": 255,
+    "consumption": {},
+    "stock_records": [
+      {
+        "date": "2025-09-01",
+        "amount": 11
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 123
+      },
+      {
+        "date": "2025-09-03",
+        "amount": 121
+      }
+    ]
+  }
+}
